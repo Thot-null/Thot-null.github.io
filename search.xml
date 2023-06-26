@@ -5,8 +5,8 @@
     
     <entry>
       <title>test</title>
-      <link href="/2023/06/25/%E5%85%AC%E5%91%8A/"/>
-      <url>/2023/06/25/%E5%85%AC%E5%91%8A/</url>
+      <link href="/posts/d87f7e0c.html"/>
+      <url>/posts/d87f7e0c.html</url>
       
         <content type="html"><![CDATA[<p>125454201</p>]]></content>
       
@@ -32,9 +32,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -54,9 +54,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -65,9 +65,31 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>工具合集</title>
+      <link href="/tools/index.html"/>
+      <url>/tools/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日志</title>
+      <link href="/update/index.html"/>
+      <url>/update/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
