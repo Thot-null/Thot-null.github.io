@@ -1,1 +1,127 @@
-.aside-content{max-width:312px;min-width:300px}.recent-posts{width:auto!important}@media screen and (max-width:900px){.aside-content{max-width:none!important}}#archive,#category,#page,#tag{width:100%}.page:not(.page.home) .aside-content{display:none}@media screen and (min-width:1200px){#recent-posts{margin-top:-1rem;align-content:flex-start;display:flex;flex-wrap:wrap;justify-content:space-between}#recent-posts>.recent-post-item{margin-top:1rem;display:inline-block;height:auto;width:49%}#recent-posts>.recent-post-item .post_cover{width:100%;height:200px}#recent-posts>.recent-post-item .post_cover img.post_bg{width:100%;height:100%}#recent-posts>.recent-post-item{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}#recent-posts>.recent-post-item .left_radius{border-radius:8px 8px 0 0}#recent-posts>.recent-post-item .right_radius{border-radius:8px 8px 0 0}.recent-post-item{height:auto!important}.recent-post-info{padding:0 40px;margin-top:1em;width:100%!important}#recent-posts>.recent-post-item>.recent-post-info>.article-title{-webkit-line-clamp:1;margin-top:.3rem;margin-bottom:.3rem;font-size:1.2em;line-height:1.4}#recent-posts>.recent-post-item>.recent-post-info>.article-meta-wrap{margin-bottom:1rem}}.flink-list-item{width:calc(100% / 4 - 15px)!important}@media screen and (max-width:1250px){.flink-list-item{width:calc(100% / 3 - 15px)!important}}#nav .menus_items{position:absolute;width:fit-content;left:50%;transform:translateX(-50%)}.menus_item_child li:not(#sidebar-menusli){float:left;border-radius:6px!important;-webkit-border-radius:6px!important;-moz-border-radius:6px!important;-ms-border-radius:6px!important;-o-border-radius:6px!important}.menus_item_child:not(#sidebar-menusul){left:50%;translate:-50%}
+/*Hexo Butterfly宽屏适配指北*/
+/*侧边栏适配*/
+.aside-content{
+    max-width:312px;
+    min-width:300px;
+}
+.recent-posts{
+  width:auto!important;
+}
+/*添加的自动适配*/
+@media screen and (max-width: 900px){
+    .aside-content{
+        max-width:none!important;
+    }
+}
+/*分页适配*/
+#archive,#page,#category,#tag{
+    width:100%;
+}
+.page:not(.page.home) .aside-content{
+    display: none;
+}
+
+/*首页卡片适配，双栏效果（添加自适应功能）*/
+@media screen and (min-width: 1200px) {
+    #recent-posts{
+        margin-top:-1rem;  /*头部为空时抵消间隔，若有磁贴或日历请注释掉该行*/
+        align-content:flex-start;
+        display: flex;
+        flex-wrap: wrap; /*规定灵活的项目在必要的时候拆行或拆列。*/
+        justify-content: space-between; /*。*/
+    }
+    #recent-posts > .recent-post-item {
+      /*max-height:324px;*/  /*文章容器最大高度*/
+      margin-top: 1rem; /*最小间距*/
+      display: inline-block;
+      height:auto; /*高度自动*/
+      width:49%;/*文章容器容器宽度*/
+    }
+    #recent-posts > .recent-post-item .post_cover {
+      width: 100%; /*图片封面宽度*/
+        height: 200px;/*图片封面高度*/
+    }
+    #recent-posts > .recent-post-item .post_cover img.post_bg {
+      width: 100%;/*图片宽度*/
+      height: 100%;/*图片高度*/
+    }
+    #recent-posts > .recent-post-item {
+  
+      -webkit-flex-direction: column; /*容器内部纵向排列*/
+      -ms-flex-direction: column; /*容器内部纵向排列*/
+      flex-direction: column; /*容器内部纵向排列*/
+  
+    }
+    #recent-posts > .recent-post-item .left_radius {
+        border-radius: 8px 8px 0 0;/*圆角修改*/
+    }
+    #recent-posts > .recent-post-item .right_radius {
+        border-radius: 8px 8px 0 0;/*圆角修改*/
+    }
+    .recent-post-item{
+        height:auto !important;/*容器高度自动*/
+    }
+  
+    .recent-post-info {
+  
+      padding: 0 40px;/*容器内部文字左右间距*/
+      margin-top: 1em;/*容器内部文字上间距*/
+      width: 100%!important;/*容器宽度*/
+    }
+    #recent-posts > .recent-post-item > .recent-post-info > .article-title {
+        -webkit-line-clamp: 1;/*控制标题的行数*/
+        margin-top: 0.3rem; /*控制标题的上间距*/
+        margin-bottom: 0.3rem;/*控制标题的下间距*/
+        font-size: 1.2em; /*控制标题的字体大小*/
+        line-height: 1.4;/*控制标题的行高*/
+   
+    }
+    #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
+        margin-bottom: 1rem;/*控制标题meta信息的底部间距*/
+    }
+}
+
+/*友链界面适配，让一行显示更多的友链图标：*/
+.flink-list-item{
+    width:calc(100% / 4 - 15px)!important;
+}
+@media screen and (max-width: 1250px) {
+    .flink-list-item{
+        width:calc(100% / 3 - 15px)!important;
+    }
+}
+
+
+
+/*导航栏居中*/
+#nav .menus_items {
+    /* display: inline; 这个带不带都可以，本来就是inline */
+    position: absolute;
+    width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+    }
+    
+
+
+/*子菜单横向布局*/
+.menus_item_child li:not(#sidebar-menus li){
+    float: left;
+    border-radius: 6px!important;
+    -webkit-border-radius: 6px!important;
+    -moz-border-radius: 6px!important;
+    -ms-border-radius: 6px!important;
+    -o-border-radius: 6px!important;
+}
+.menus_item_child:not(#sidebar-menus ul){
+  /*
+    left:calc(-150%)!important;这是估算值，为了保持元素居中的，如果不合适可以自己调
+  改为：*/
+  left:50%;
+  translate:-50%;
+}
+
+
+
+
+
