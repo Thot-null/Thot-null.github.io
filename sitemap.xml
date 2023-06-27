@@ -76,22 +76,22 @@
 
   <url>
     <loc>https://www.thotz.top/</loc>
-    <lastmod>2023-06-26</lastmod>
+    <lastmod>2023-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.thotz.top/tags/hexo-butterfly%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-06-26</lastmod>
+    <loc>https://www.thotz.top/tags/test/</loc>
+    <lastmod>2023-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.thotz.top/tags/test/</loc>
-    <lastmod>2023-06-26</lastmod>
+    <loc>https://www.thotz.top/tags/hexo-butterfly%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -99,15 +99,15 @@
 
   
   <url>
-    <loc>https://www.thotz.top/categories/hexo/</loc>
-    <lastmod>2023-06-26</lastmod>
+    <loc>https://www.thotz.top/categories/test/</loc>
+    <lastmod>2023-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.thotz.top/categories/test/</loc>
-    <lastmod>2023-06-26</lastmod>
+    <loc>https://www.thotz.top/categories/hexo/</loc>
+    <lastmod>2023-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
