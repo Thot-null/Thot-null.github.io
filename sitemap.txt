@@ -7,7 +7,7 @@ https://www.thotz.top/about/index.html
 https://www.thotz.top/categories/index.html
 https://www.thotz.top/tags/index.html
 https://www.thotz.top/
-https://www.thotz.top/tags/test/
 https://www.thotz.top/tags/hexo-butterfly%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E8%AE%B0%E5%BD%95/
-https://www.thotz.top/categories/test/
+https://www.thotz.top/tags/test/
 https://www.thotz.top/categories/hexo/
+https://www.thotz.top/categories/test/

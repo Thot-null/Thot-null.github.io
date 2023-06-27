@@ -57,17 +57,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -79,11 +68,11 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<center>我的信息</center><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -117,6 +106,17 @@
       <url>/update/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<center>我的信息</center><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>]]></content>
       
     </entry>
     
