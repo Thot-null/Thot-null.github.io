@@ -137,8 +137,8 @@
   display: inline-block;
 }
 
-#sidebar #sidebar-menus{
-  background-image: url(https://pic.imgdb.cn/item/649a9bf….jpg);
+#sidebar #sidebar-menus.open{
+  background-image: url(https://pic.imgdb.cn/item/649a9bf01ddac507cce16984.jpg);
 }
 
 
