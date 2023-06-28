@@ -123,6 +123,12 @@
 
 
 
+
+
+
+
+/*6/27/23:41自定义首页文章宽度，以及手机导航栏列表优化*/
+
 #content-inner, #footer{
   min-width: 83%;
 }
@@ -131,7 +137,9 @@
   display: inline-block;
 }
 
-
+#sidebar #sidebar-menus{
+  background-image: url(https://pic.imgdb.cn/item/649a9bf….jpg);
+}
 
 
 
