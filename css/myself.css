@@ -1,0 +1,49 @@
+/*取消分类背景方块及阴影*/
+#aside-content .card-widget{
+    box-shadow: none;
+    border: none;
+}
+/*隐藏分类字样及图标*/
+#aside-content .item-headline{
+    display: none;
+}
+/*添加样式*/
+#aside-content .card-archives ul.card-archive-list>.card-archive-list-item, #aside-content .card-categories ul.card-category-list>.card-category-list-item{
+    width: calc(50% - .25rem);
+    margin-top: .5rem;
+}
+.card-widget card-categories{
+    padding-left: 20px;
+}
+#aside-content :only-child > .card-widget{
+    padding-left: 5px;
+}
+#aside-content .card-tag-cloud a{
+    display: inline-block;
+    font-size: 95% !important;
+    padding: 0 .4em;
+    margin: .1em .2em 0 0;
+    border-radius: 8px;
+    background: #f2f6fc;
+    transition: all .3s ease-in-out;
+}
+/*添加'篇'字及样式*/
+#aside-content .card-archives ul.card-archive-list>.card-archive-list-item a span.card-archive-list-count::after, #aside-content .card-categories ul.card-category-list>.card-category-list-item a span.card-category-list-count::after{
+    content: '篇';
+    opacity: .8;
+    font-size: 1rem;
+    margin-left: .5rem;
+}
+#aside-content .card-archives ul.card-archive-list>.card-archive-list-item a span.card-archive-list-count, #aside-content .card-categories ul.card-category-list>.card-category-list-item a span.card-category-list-count{
+    position: relative;
+    line-height: 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: right;
+}
+#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span:last-child, #aside-content .card-categories ul.card-category-list > .card-category-list-item a span:last-child{
+    margin-left: 54px;
+}
+div.card-widget.card-categories{
+    padding-left: 0px;
+}
