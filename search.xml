@@ -553,9 +553,9 @@
     
     
     <entry>
-      <title>及时BB</title>
-      <link href="/says/index.html"/>
-      <url>/says/index.html</url>
+      <title>工具合集</title>
+      <link href="/tools/index.html"/>
+      <url>/tools/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -564,9 +564,9 @@
     
     
     <entry>
-      <title>日志</title>
-      <link href="/update/index.html"/>
-      <url>/update/index.html</url>
+      <title>及时BB</title>
+      <link href="/says/index.html"/>
+      <url>/says/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -586,9 +586,9 @@
     
     
     <entry>
-      <title>工具合集</title>
-      <link href="/tools/index.html"/>
-      <url>/tools/index.html</url>
+      <title>日志</title>
+      <link href="/update/index.html"/>
+      <url>/update/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
