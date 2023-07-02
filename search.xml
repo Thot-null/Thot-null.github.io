@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>腾讯地图显示测试</title>
+      <link href="/posts/4e53ee27.html"/>
+      <url>/posts/4e53ee27.html</url>
+      
+        <content type="html"><![CDATA[<p>This is my map page content.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo-安知鱼(anzhiyu)主题修改教程</title>
       <link href="/posts/b22560da.html"/>
       <url>/posts/b22560da.html</url>
@@ -463,17 +476,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于我</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -501,6 +503,17 @@
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[<center>我的信息</center><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -540,17 +553,6 @@
     
     
     <entry>
-      <title>风景名胜</title>
-      <link href="/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html"/>
-      <url>/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>及时BB</title>
       <link href="/says/index.html"/>
       <url>/says/index.html</url>
@@ -576,6 +578,17 @@
       <title>工具合集</title>
       <link href="/tools/index.html"/>
       <url>/tools/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>风景名胜</title>
+      <link href="/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html"/>
+      <url>/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
