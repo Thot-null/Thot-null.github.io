@@ -8,7 +8,7 @@
       <link href="/posts/4fbc9c44.html"/>
       <url>/posts/4fbc9c44.html</url>
       
-        <content type="html"><![CDATA[<h1 id="直接使用部署好的"><a href="#直接使用部署好的" class="headerlink" title="直接使用部署好的"></a>直接使用部署好的</h1><h1 id="部署属于自己的newbing"><a href="#部署属于自己的newbing" class="headerlink" title="部署属于自己的newbing"></a>部署属于自己的newbing</h1><p><strong>开源地址：</strong><a href="https://github.com/adams549659584/go-proxy-bingai">adams549659584/go-proxy-bingai: 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 (github.com)</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="直接使用部署好的"><a href="#直接使用部署好的" class="headerlink" title="直接使用部署好的"></a>直接使用部署好的</h1><h2 id="设置用户"><a href="#设置用户" class="headerlink" title="设置用户"></a>设置用户</h2><ul><li>访问 <a href="https://www.bing.com/">https://www.bing.com/</a> 或 <a href="https://cn.bing.com/">https://cn.bing.com/</a> ，登录</li><li>F12 或 Ctrl + Shift + I 打开控制台</li><li>拿到 Cookie 中 _U 的值 后，在网站设置 =&gt; 设置用户 中填入即可。</li></ul><h1 id="部署属于自己的newbing"><a href="#部署属于自己的newbing" class="headerlink" title="部署属于自己的newbing"></a>部署属于自己的newbing</h1><p><strong>开源地址：</strong><a href="https://github.com/adams549659584/go-proxy-bingai">adams549659584/go-proxy-bingai: 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 (github.com)</a></p>]]></content>
       
       
       
@@ -459,6 +459,50 @@
     
     
     <entry>
+      <title>日常</title>
+      <link href="/richangzhaopian/index.html"/>
+      <url>/richangzhaopian/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<center>我的信息</center><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>及时BB</title>
+      <link href="/says/index.html"/>
+      <url>/says/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工具合集</title>
+      <link href="/tools/index.html"/>
+      <url>/tools/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -481,33 +525,11 @@
     
     
     <entry>
-      <title>日常</title>
-      <link href="/richangzhaopian/index.html"/>
-      <url>/richangzhaopian/index.html</url>
+      <title>日志</title>
+      <link href="/update/index.html"/>
+      <url>/update/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>及时BB</title>
-      <link href="/says/index.html"/>
-      <url>/says/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<center>我的信息</center><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>]]></content>
       
     </entry>
     
@@ -525,31 +547,9 @@
     
     
     <entry>
-      <title>日志</title>
-      <link href="/update/index.html"/>
-      <url>/update/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>风景名胜</title>
       <link href="/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html"/>
       <url>/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>工具合集</title>
-      <link href="/tools/index.html"/>
-      <url>/tools/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
