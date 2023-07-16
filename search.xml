@@ -426,17 +426,6 @@
     
     
     <entry>
-      <title>关于我</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>相册</title>
       <link href="/album/index.html"/>
       <url>/album/index.html</url>
@@ -448,9 +437,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于我</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -470,6 +459,28 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -481,9 +492,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/links/index.html"/>
-      <url>/links/index.html</url>
+      <title>及时BB</title>
+      <link href="/says/index.html"/>
+      <url>/says/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -503,17 +514,6 @@
     
     
     <entry>
-      <title>及时BB</title>
-      <link href="/says/index.html"/>
-      <url>/says/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -525,9 +525,9 @@
     
     
     <entry>
-      <title>工具合集</title>
-      <link href="/tools/index.html"/>
-      <url>/tools/index.html</url>
+      <title>日志</title>
+      <link href="/update/index.html"/>
+      <url>/update/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -536,9 +536,9 @@
     
     
     <entry>
-      <title>日志</title>
-      <link href="/update/index.html"/>
-      <url>/update/index.html</url>
+      <title>工具合集</title>
+      <link href="/tools/index.html"/>
+      <url>/tools/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
