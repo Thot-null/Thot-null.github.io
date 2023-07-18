@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>WebRoot程序介绍</title>
+      <link href="/posts/5b4f75e0.html"/>
+      <url>/posts/5b4f75e0.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Web-Robot-程序介绍"><a href="#Web-Robot-程序介绍" class="headerlink" title="Web Robot 程序介绍"></a><strong>Web Robot 程序介绍</strong></h1><p>Web Robot是一个使用Electron框架构建的桌面应用程序。它的主要功能是从用户提供的URL中提取网页信息，并生成YML文件以及下载网页图标。此外，程序还提供了一个功能来将下载的网页图标转换为指定的图片格式。</p><h2 id="程序功能"><a href="#程序功能" class="headerlink" title="程序功能"></a><strong>程序功能</strong></h2><ol><li><p><strong>网页信息提取功能</strong>：</p><ul><li>用户在应用程序界面中输入一个URL。</li><li>程序使用axios和cheerio库从该URL获取网页内容。</li><li>从网页内容中提取网页标题、网页图标链接和描述信息。</li><li>如果网页信息获取失败，会自动使用默认浏览器打开网页。</li></ul></li><li><p><strong>YML文件生成功能</strong>：</p><ul><li><p>使用从网页中提取的信息，程序生成一个YML文件,文件名为一个实时的时间戳，并在成功生成后使用默认的代码编辑器打开文件。</p></li><li><p>YML文件是一种结构化的文本文件格式，用于存储网页信息，例如标题、URL、图标链接和描述。</p></li><li><p>yml文件格式为</p><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> </span><br><span class="line">  <span class="attr">url:</span> </span><br><span class="line">  <span class="attr">img:</span> </span><br><span class="line">  <span class="attr">description:</span> </span><br></pre></td></tr></table></figure></li></ul></li><li><p><strong>网页图标下载功能</strong>：</p><ul><li>程序会尝试从网页中提取的图标链接下载网页图标，下载失败后会继续生成yml文件（如果可以获取到的话），并且使用默认浏览器打开原网页。</li><li>如果图标链接是有效的且图标格式被程序支持（如’.jpg’, ‘.jpeg’, ‘.png’, ‘.gif’, ‘.bmp’, ‘.webp’, ‘.ico’,’.svg’），程序会下载图标文件保存在本地。</li></ul></li><li><p><strong>SVG图标显示功能</strong>：</p><ul><li>如果网页图标是SVG格式，程序会直接将SVG代码传递给渲染进程，并在用户界面中显示。</li></ul></li><li><p><strong>网页图标转换功能</strong>：</p><ul><li>用户可以在界面中输入要转换的图片格式（png, jpg, jpeg, webp）。</li><li>程序使用sharp库将下载的网页图标转换为指定的图片格式，并保存在本地。</li></ul></li></ol><h2 id="界面操作"><a href="#界面操作" class="headerlink" title="界面操作"></a><strong>界面操作</strong></h2><ul><li>用户在应用程序界面中输入一个URL，并点击”开始”按钮来触发网页信息提取功能。</li><li>如果网页图标下载成功，程序会在界面中显示图标下载的信息和路径。<strong>默认路径为</strong>：</li><li>用户可以输入一个要转换的图片格式，并点击”转换图片格式”按钮来触发图标转换功能。</li><li>转换后的图标文件路径和转换成功的信息将在界面中显示。</li></ul><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a><strong>注意事项</strong></h2><ul><li>如果提取的网页图标链接无效或格式不被支持，程序会显示错误信息，并在点击”开始”按钮后重新尝试提取网页信息。</li><li>程序会在生成YML文件和转换图标后，自动使用默认程序打开生成的yml文件，并在一定时间后删除这些文件。</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p>Web Robot是一个简单实用的桌面应用程序，可以从用户提供的URL中提取网页信息，并提供了生成YML文件和转换网页图标的功能。它为用户提供了一种方便的方式来保存网页信息和处理网页图标。该程序使用Electron框架，结合Node.js和前端技术，实现了强大的功能，同时提供了友好的用户界面。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> https://s1.ax1x.com/2023/07/18/pCTrkZT.png - WebRobot程序介绍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>newbing体验说明</title>
       <link href="/posts/4fbc9c44.html"/>
       <url>/posts/4fbc9c44.html</url>
@@ -117,7 +142,7 @@
     
     
     <entry>
-      <title>建模步骤</title>
+      <title>正常建模流程</title>
       <link href="/posts/8eba1e10.html"/>
       <url>/posts/8eba1e10.html</url>
       
@@ -448,17 +473,6 @@
     
     
     <entry>
-      <title>及时BB</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -470,31 +484,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/links/index.html"/>
-      <url>/links/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<center>我的信息</center><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>及时BB</title>
-      <link href="/says/index.html"/>
-      <url>/says/index.html</url>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -514,6 +506,17 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<center>我的信息</center><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -525,9 +528,20 @@
     
     
     <entry>
-      <title>日志</title>
-      <link href="/update/index.html"/>
-      <url>/update/index.html</url>
+      <title>及时BB</title>
+      <link href="/says/index.html"/>
+      <url>/says/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -539,6 +553,17 @@
       <title>工具合集</title>
       <link href="/tools/index.html"/>
       <url>/tools/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日志</title>
+      <link href="/update/index.html"/>
+      <url>/update/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
