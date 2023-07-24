@@ -488,31 +488,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于我</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>相册</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -532,9 +510,31 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>朋友圈</title>
       <link href="/fcircle/index.html"/>
       <url>/fcircle/index.html</url>
+      
+        <content type="html"><![CDATA[<p><div id="hexo-circle-of-friends-root"></div></p><script>    let UserConfig = {        // 填写你的api地址        private_api_url: 'https://friendsapi.thotz.top/',        // 初始加载几篇文章        page_init_number: 20,        // 点击加载更多时，一次最多加载几篇文章，默认10        page_turning_number: 10,        // 头像加载失败时，默认头像地址        error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c',        // 进入页面时第一次的排序规则        sort_rule: 'created',        // 本地文章缓存数据过期时间（天）        expire_days: 1,     }</script><script type="text/javascript" src="https://npm.elemecdn.com/fcircle-theme-yyyz@1.0.13/dist/fcircle.min.js"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -576,17 +576,6 @@
     
     
     <entry>
-      <title>及时BB</title>
-      <link href="/says/index.html"/>
-      <url>/says/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -598,9 +587,20 @@
     
     
     <entry>
-      <title>日志</title>
-      <link href="/update/index.html"/>
-      <url>/update/index.html</url>
+      <title>及时BB</title>
+      <link href="/says/index.html"/>
+      <url>/says/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>风景名胜</title>
+      <link href="/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html"/>
+      <url>/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -620,9 +620,9 @@
     
     
     <entry>
-      <title>风景名胜</title>
-      <link href="/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html"/>
-      <url>/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html</url>
+      <title>日志</title>
+      <link href="/update/index.html"/>
+      <url>/update/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
