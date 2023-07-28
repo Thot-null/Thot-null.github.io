@@ -521,6 +521,17 @@
     
     
     <entry>
+      <title>朋友圈</title>
+      <link href="/fcircle/index.html"/>
+      <url>/fcircle/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -532,9 +543,9 @@
     
     
     <entry>
-      <title>朋友圈</title>
-      <link href="/fcircle/index.html"/>
-      <url>/fcircle/index.html</url>
+      <title>友链</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -548,17 +559,6 @@
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[<details class="folding-tag" blue hide><summary> 我的信息 </summary>              <div class='content'>              <figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">name:</span> <span class="string">SuYi-宿仪</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.thotz.top/</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg</span></span><br><span class="line">  <span class="attr">descr:</span> <span class="string">随心写作，随缘阅读</span></span><br></pre></td></tr></table></figure>              </div>            </details><details class="folding-tag" blue open><summary> 友链申请格式 </summary>              <div class='content'>              <ul><li><p>name: </p></li><li><p>tag:   #自定义标签</p></li><li><p>link: </p></li><li><p>avatar: </p></li><li><p>descr: </p></li><li><p>color:  #自定义标签颜色  (例如 <code>#RRGGBB</code> 或 <code>rgb(255, 0, 0)</code>或<code>pink</code>)</p></li><li><p>siteshot: </p></li></ul>              </div>            </details>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/links/index.html"/>
-      <url>/links/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
