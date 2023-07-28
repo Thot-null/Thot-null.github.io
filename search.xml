@@ -499,17 +499,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>相册</title>
       <link href="/album/index.html"/>
       <url>/album/index.html</url>
@@ -524,6 +513,17 @@
       <title>及时BB</title>
       <link href="/essay/index.html"/>
       <url>/essay/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -565,17 +565,6 @@
     
     
     <entry>
-      <title>及时BB</title>
-      <link href="/says/index.html"/>
-      <url>/says/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>日常</title>
       <link href="/richangzhaopian/index.html"/>
       <url>/richangzhaopian/index.html</url>
@@ -587,9 +576,9 @@
     
     
     <entry>
-      <title>风景名胜</title>
-      <link href="/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html"/>
-      <url>/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html</url>
+      <title>及时BB</title>
+      <link href="/says/index.html"/>
+      <url>/says/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -612,6 +601,17 @@
       <title>日志</title>
       <link href="/update/index.html"/>
       <url>/update/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>风景名胜</title>
+      <link href="/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html"/>
+      <url>/%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
