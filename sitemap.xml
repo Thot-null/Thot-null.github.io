@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.thotz.top/posts/2c6e0b40.html</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.thotz.top/posts/67395782.html</loc>
     
     <lastmod>2023-11-23</lastmod>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>https://www.thotz.top/posts/72d85d98.html</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thotz.top/posts/2c6e0b40.html</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -362,7 +362,7 @@
 
   
   <url>
-    <loc>https://www.thotz.top/tags/NewBing%E4%B8%8EGpt3-5%E7%9A%84%E5%AF%B9%E8%AF%9D/</loc>
+    <loc>https://www.thotz.top/tags/AI%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -376,21 +376,7 @@
   </url>
   
   <url>
-    <loc>https://www.thotz.top/tags/AI%E7%BD%91%E7%AB%99%E6%B1%87%E6%80%BB/</loc>
-    <lastmod>2023-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.thotz.top/tags/anzhiyu%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2023-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.thotz.top/tags/Zlibrary%E6%8F%92%E4%BB%B6/</loc>
+    <loc>https://www.thotz.top/tags/NewBing%E4%B8%8EGpt3-5%E7%9A%84%E5%AF%B9%E8%AF%9D/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -404,7 +390,14 @@
   </url>
   
   <url>
-    <loc>https://www.thotz.top/tags/echarts%E5%B8%B8%E7%94%A8%E5%9B%BE%E8%A1%A8%E7%B1%BB%E5%9E%8B/</loc>
+    <loc>https://www.thotz.top/tags/Zlibrary%E6%8F%92%E4%BB%B6/</loc>
+    <lastmod>2023-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thotz.top/tags/anzhiyu%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -412,6 +405,13 @@
   
   <url>
     <loc>https://www.thotz.top/tags/chagpt%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thotz.top/tags/echarts%E5%B8%B8%E7%94%A8%E5%9B%BE%E8%A1%A8%E7%B1%BB%E5%9E%8B/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -481,14 +481,14 @@
   </url>
   
   <url>
-    <loc>https://www.thotz.top/tags/%E5%9F%BA%E4%BA%8Eecharts%E5%9B%BE%E8%A1%A8%E7%9A%84%E7%BB%9F%E8%AE%A1%E9%A1%B5/</loc>
+    <loc>https://www.thotz.top/tags/%E5%A4%A9%E8%8B%A5OCR%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB5-0-2/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.thotz.top/tags/%E5%A4%A9%E8%8B%A5OCR%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB5-0-2/</loc>
+    <loc>https://www.thotz.top/tags/%E5%9F%BA%E4%BA%8Eecharts%E5%9B%BE%E8%A1%A8%E7%9A%84%E7%BB%9F%E8%AE%A1%E9%A1%B5/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -546,7 +546,7 @@
   </url>
   
   <url>
-    <loc>https://www.thotz.top/categories/%F0%9F%98%83hexo/</loc>
+    <loc>https://www.thotz.top/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -560,7 +560,7 @@
   </url>
   
   <url>
-    <loc>https://www.thotz.top/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</loc>
+    <loc>https://www.thotz.top/categories/%F0%9F%98%83hexo/</loc>
     <lastmod>2023-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
